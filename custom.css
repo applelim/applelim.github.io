@@ -1,0 +1,21 @@
+.my-jumbotron-background{
+    background-image: urL("cat.jpg");
+    background-size: cover;
+    /*background-position=""*/
+}
+
+.my-row-padding{
+
+    padding-top: 110px;
+    padding-bottom: 50px;
+
+}
+
+.my-hover{
+    width:1000px;
+    transition: width 2s;
+}
+
+.my-hover:hover{
+    width:80px;
+}
